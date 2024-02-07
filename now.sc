@@ -8,5 +8,5 @@ import org.terminal21.client.components.std.Paragraph
 Sessions.withNewSession(id = "now-id", name = "now"): session =>
   given ConnectedSession = session
 
-  Paragraph(text = Instant.now.toString).render()
+  Paragraph(text = s"Datetime: ${Instant.now.toString}").render()
   session.leaveSessionOpenAfterExiting()
