@@ -5,13 +5,12 @@ Terminal21
 Server
 ------
 1. chmod +x server.sc ( once )
-2. ./server.sc
+2. ./server.sc ( http://localhost:8080/ui )
 
 Now
 ---
 1. chmod +x now.sc ( once )
-2. ./now.sc
-3. open: http://localhost:8080/ui
+2. ./now.sc ( http://localhost:8080/ui )
 
 Resources
 ---------
