@@ -2,9 +2,10 @@ Terminal21
 ----------
 >Terminal21 scripts using Scala 3.
 
-Scripts
--------
-1. scala-cli now.sc
+Now
+---
+1. chmod +x now.sc ( once )
+2. ./now.sc
 
 Resources
 ---------
