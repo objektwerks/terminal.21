@@ -4,6 +4,7 @@ Terminal21
 
 Server
 ------
+>Start server before running an app! ;)
 1. chmod +x server.sc ( once )
 2. ./server.sc ( http://localhost:8080/ui )
 
