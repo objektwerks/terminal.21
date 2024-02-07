@@ -1,6 +1,6 @@
 Terminal21
 ----------
->Terminal21 scripts using Scala 3.
+>Terminal21 scripts using Scala-CLI and Scala 3.
 
 Server
 ------
