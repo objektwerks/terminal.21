@@ -2,4 +2,4 @@
 
 import org.terminal21.server.Terminal21Server
 
-Terminal21Server.start()
+Terminal21Server.start(port = Some(7070))
