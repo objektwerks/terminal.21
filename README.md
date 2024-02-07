@@ -15,5 +15,6 @@ Now
 
 Resources
 ---------
+* [Terminal 21](https://github.com/kostaskougios/terminal21-restapi)
 * [Terminal 21 Tutorial](https://github.com/kostaskougios/terminal21-restapi/blob/main/docs/tutorial.md)
 * [Scala-CLI](https://scala-cli.virtuslab.org/)
