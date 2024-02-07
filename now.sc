@@ -2,9 +2,8 @@
 
 import java.time.Instant
 
-import org.terminal21.client.*
-import org.terminal21.client.components.*
-import org.terminal21.client.components.std.*
+import org.terminal21.client.{ConnectedSession, Sessions}
+import org.terminal21.client.components.std.Paragraph
 
 Sessions.withNewSession(id = "now-id", name = "now"): session =>
   given ConnectedSession = session
