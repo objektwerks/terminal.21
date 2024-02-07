@@ -11,6 +11,7 @@ Now
 ---
 1. chmod +x now.sc ( once )
 2. ./now.sc
+3. open: http://localhost:8080/ui
 
 Resources
 ---------
