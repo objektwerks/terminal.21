@@ -14,7 +14,7 @@ Sessions.withNewSession(id = "now-id", name = "now"): session =>
 
   val paragraph = Paragraph(text = datetime())
   val button = Button(text = "Update").onClick{ () =>
-    paragraph.withText( datetime() ).renderChanges()
+    paragraph.withText(datetime()).renderChanges()
   }
 
   Seq(paragraph, button).render()
